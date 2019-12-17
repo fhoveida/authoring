@@ -2,11 +2,11 @@
 
 
 ## Create checkboxes with the following tasks: 
-  - [ ] [External Link](## External Link)
+  - [x] [External Link]()
   - [ ] Internal Link
-  - [ ] [Images]()
-  - [ ] [Emojis]()
-  - [ ] [Tables]()
+  - [x] [Images]()
+  - [x] [Emojis]()
+  - [x] [Tables]()
   
 ## External Link
 https://help.github.com/en - External Link!
